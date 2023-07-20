@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+first_post:
+  title: The First Post
+  description: Description for The First Post
+
+second_post:
+  title: The Second Post
+  description: Description for The Second Post
+
+third_post:
+  title: The Third Post
+  description: Description for The Third Post
